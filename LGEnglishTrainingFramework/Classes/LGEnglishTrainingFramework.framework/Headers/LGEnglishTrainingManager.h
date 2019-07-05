@@ -37,12 +37,12 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *photoPath;
 
 @property (nonatomic, assign, readonly) NSInteger levelId;
-/** 首页左上角按钮事件 */
-@property (nonatomic, copy) void (^et_homeLeftBarButtonItemDidClicked)(UIViewController *viewController);
 /** 跳转知识点学习课件 */
 @property (nonatomic, copy) void (^jumpToLGKnowledgeBlock)(UIViewController *fromController, NSString *klgCode);
 
 + (LGEnglishTrainingManager *)defaultManager;
+
+- (void)presentEnglishTrainingControllerBy:(UIViewController *)controller;
 
 @end
 
