@@ -7,6 +7,7 @@
 //
 
 #import "LGViewController.h"
+#import <LGEnglishTrainingFramework/LGEnglishTrainingFramework.h>
 
 @interface LGViewController ()
 

@@ -60,10 +60,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7FB4BE4E296040BEBF3B2711 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		7FB4BE4E296040BEBF3B2711 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9CEEEC54C3F853B7AA5122F1 /* LGEnglishTrainingFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LGEnglishTrainingFramework.podspec; path = ../LGEnglishTrainingFramework.podspec; sourceTree = "<group>"; };
-		C4DFABA8DF10D0B760FCBCB1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9CEEEC54C3F853B7AA5122F1 /* LGEnglishTrainingFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LGEnglishTrainingFramework.podspec; path = ../LGEnglishTrainingFramework.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C4DFABA8DF10D0B760FCBCB1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D39818CDC050399A25D21633 /* Pods_LGEnglishTrainingFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LGEnglishTrainingFramework_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E67EA0BB8551510BF8028295 /* Pods-LGEnglishTrainingFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGEnglishTrainingFramework_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EC816D1E923E01583DA07C05 /* Pods-LGEnglishTrainingFramework_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGEnglishTrainingFramework_Example.release.xcconfig"; path = "Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -193,7 +193,6 @@
 				E67EA0BB8551510BF8028295 /* Pods-LGEnglishTrainingFramework_Tests.debug.xcconfig */,
 				1342C1CF8944F3962D7EAD8E /* Pods-LGEnglishTrainingFramework_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -550,6 +550,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LGEnglishTrainingFramework/LGEnglishTrainingFramework-Prefix.pch";
 				INFOPLIST_FILE = "LGEnglishTrainingFramework/LGEnglishTrainingFramework-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -566,6 +567,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LGEnglishTrainingFramework/LGEnglishTrainingFramework-Prefix.pch";
 				INFOPLIST_FILE = "LGEnglishTrainingFramework/LGEnglishTrainingFramework-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
