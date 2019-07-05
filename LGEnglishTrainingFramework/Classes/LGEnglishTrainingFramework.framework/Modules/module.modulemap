@@ -1,0 +1,6 @@
+framework module LGEnglishTrainingFramework {
+  umbrella header "LGEnglishTrainingFramework.h"
+
+  export *
+  module * { export * }
+}

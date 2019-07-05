@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LGEnglishTrainingFramework'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of LGEnglishTrainingFramework.'
 
 # This description is used to generate tags and improve search results.
@@ -26,17 +26,37 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'GuiLQing' => 'gui950823@126.com' }
   s.source           = { :git => 'https://github.com/GuiLQing/LGEnglishTrainingFramework.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+s.ios.deployment_target = '9.0'
 
-  s.ios.deployment_target = '8.0'
+#系统依赖库
+s.frameworks = 'AudioToolbox', 'AVFoundation', 'CoreGraphics', 'CoreMedia', 'CoreVideo', 'MediaPlayer', 'MobileCoreServices', 'OpenGLES', 'QuartzCore', 'UIKit', 'VideoToolbox', 'Accelerate'
+s.libraries = 'z', 'bz2', 'stdc++'
+s.requires_arc = true
+s.static_framework  =  true
 
-  s.source_files = 'LGEnglishTrainingFramework/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'LGEnglishTrainingFramework' => ['LGEnglishTrainingFramework/Assets/*.png']
-  # }
+#需要包含的源文件
+s.source_files = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.framework/Headers/*.{h}'
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+#你的SDK路径
+s.vendored_frameworks = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.framework'
+
+s.resource_bundles = {
+'Resources' => 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
+}#资源文件的路径，会在pod中创建“Resources”的文件夹
+
+s.dependency 'AFNetworking'
+s.dependency 'Masonry'
+s.dependency 'JSONModel'
+s.dependency 'SDWebImage'
+s.dependency 'Reachability'
+s.dependency 'ReactiveObjC'
+s.dependency 'MJRefresh'
+s.dependency 'Charts','~> 3.1.1'
+s.dependency 'MarqueeLabel','~> 3.2.0'
+s.dependency 'MBProgressHUD','~> 1.1.0'
+s.dependency 'YYText'
+s.dependency 'MJExtension'
+s.dependency 'YJTaskMark'
+s.dependency 'YJMediaPlayer'
+
 end
