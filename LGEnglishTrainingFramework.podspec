@@ -40,9 +40,7 @@ s.source_files = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.
 #你的SDK路径
 s.vendored_frameworks = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.framework'
 
-s.resource_bundles = {
-'Resources' => 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
-}#资源文件的路径，会在pod中创建“Resources”的文件夹
+s.resources = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
 
 s.dependency 'AFNetworking'
 s.dependency 'Masonry'
