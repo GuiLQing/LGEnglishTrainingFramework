@@ -44,6 +44,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)presentEnglishTrainingControllerBy:(UIViewController *)controller;
 
+@property (nonatomic, copy) void (^printBundleUrlPath)(NSString *url);
+
 @end
 
 NS_ASSUME_NONNULL_END
