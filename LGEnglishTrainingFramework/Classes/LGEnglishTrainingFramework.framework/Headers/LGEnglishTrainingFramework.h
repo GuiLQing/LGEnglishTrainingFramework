@@ -16,6 +16,4 @@ FOUNDATION_EXPORT const unsigned char LGEnglishTrainingFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <LGEnglishTrainingFramework/PublicHeader.h>
 
-#import "ETBaseNavigationController.h"
-#import "ETHomeViewController.h"
 #import "LGEnglishTrainingManager.h"
