@@ -37,6 +37,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *photoPath;
 
 @property (nonatomic, assign, readonly) NSInteger levelId;
+/** (自学模块使用)打开侧边栏 */
+@property (nonatomic, copy) void (^englishTrainingOpenSidebar)(UIViewController *fromController);
 /** 跳转知识点学习课件 */
 @property (nonatomic, copy) void (^jumpToLGKnowledgeBlock)(UIViewController *fromController, NSString *klgCode);
 

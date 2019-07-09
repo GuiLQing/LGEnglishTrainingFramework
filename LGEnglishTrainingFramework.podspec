@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LGEnglishTrainingFramework'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = 'A short description of LGEnglishTrainingFramework.'
 
 # This description is used to generate tags and improve search results.
@@ -56,6 +56,6 @@ s.dependency 'YYText'
 s.dependency 'MJExtension'
 s.dependency 'YJTaskMark'
 s.dependency 'YJMediaPlayer'
-s.dependency 'SG_AnimationTransition'
+s.dependency 'YJPresentAnimation'
 
 end
