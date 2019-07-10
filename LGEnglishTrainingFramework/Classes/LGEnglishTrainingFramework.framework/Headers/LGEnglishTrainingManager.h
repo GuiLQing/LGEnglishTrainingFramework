@@ -43,10 +43,13 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) void (^jumpToLGKnowledgeBlock)(UIViewController *fromController, NSString *klgCode);
 
 + (LGEnglishTrainingManager *)defaultManager;
-
-- (void)presentEnglishTrainingControllerBy:(UIViewController *)controller;
-
-@property (nonatomic, copy) void (^printBundleUrlPath)(NSString *url);
+/** 跳转到英语训练主界面 */
+- (void)presentEnglishTrainingHomeControllerBy:(UIViewController *)controller;
+- (void (^)(UIViewController *controller))presentEnglishTrainingHomeController;
+/** 跳转到英语训练模块训练界面 */
+/** trainingType 词汇听写：1， 句子听写：2， 听力选择：3， 朗读：4， 跟读：5， 跟读及理解：6， 配音：7， 阅读选择：8 */
+- (void)presentEnglishTrainingControllerBy:(UIViewController *)controller planId:(NSString *)planId trainingType:(NSInteger)trainingType resCode:(NSString *)resCode lastProgress:(NSNumber *)lastProgress;
+- (void (^)(UIViewController *controller, NSString *planId, NSInteger trainingType, NSString *resCode, NSNumber *lastProgress))presentEnglishTrainingController;
 
 @end
 
