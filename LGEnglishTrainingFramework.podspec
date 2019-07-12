@@ -57,5 +57,7 @@ s.dependency 'MJExtension'
 s.dependency 'YJTaskMark'
 s.dependency 'YJMediaPlayer'
 s.dependency 'YJPresentAnimation'
+s.dependency 'SGTools'
+s.dependency 'PSGChainedMode'
 
 end
