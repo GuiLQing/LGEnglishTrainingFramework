@@ -35,3 +35,1192 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+Example/Podfile.lock
+Example/Pods/Manifest.lock
+Example/Pods/AFNetworking/LICENSE
+Example/Pods/AFNetworking/README.md
+Example/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h
+Example/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+Example/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+Example/Pods/AFNetworking/AFNetworking/AFNetworking.h
+Example/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+Example/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+Example/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+Example/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+Example/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+Example/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+Example/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+Example/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+Example/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+Example/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+Example/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+Example/Pods/Charts/LICENSE
+Example/Pods/Charts/README.md
+Example/Pods/Charts/Source/Charts/Animation/Animator.swift
+Example/Pods/Charts/Source/Charts/Animation/ChartAnimationEasing.swift
+Example/Pods/Charts/Source/Charts/Charts/BarChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/BarLineChartViewBase.swift
+Example/Pods/Charts/Source/Charts/Charts/BubbleChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/CandleStickChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/ChartViewBase.swift
+Example/Pods/Charts/Source/Charts/Charts/CombinedChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/HorizontalBarChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/LineChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/PieChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/PieRadarChartViewBase.swift
+Example/Pods/Charts/Source/Charts/Charts/RadarChartView.swift
+Example/Pods/Charts/Source/Charts/Charts/ScatterChartView.swift
+Example/Pods/Charts/Source/Charts/Components/AxisBase.swift
+Example/Pods/Charts/Source/Charts/Components/ChartLimitLine.swift
+Example/Pods/Charts/Source/Charts/Components/ComponentBase.swift
+Example/Pods/Charts/Source/Charts/Components/Description.swift
+Example/Pods/Charts/Source/Charts/Components/IMarker.swift
+Example/Pods/Charts/Source/Charts/Components/Legend.swift
+Example/Pods/Charts/Source/Charts/Components/LegendEntry.swift
+Example/Pods/Charts/Source/Charts/Components/MarkerImage.swift
+Example/Pods/Charts/Source/Charts/Components/MarkerView.swift
+Example/Pods/Charts/Source/Charts/Components/XAxis.swift
+Example/Pods/Charts/Source/Charts/Components/YAxis.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/ChartBaseDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarLineScatterCandleBubbleChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarLineScatterCandleBubbleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntryBase.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/CombinedChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineRadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineScatterCandleRadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataEntry.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartData.swift
+Example/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IBarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IBarLineScatterCandleBubbleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IBubbleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/ICandleChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/ILineChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/ILineRadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/ILineScatterCandleRadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IPieChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IRadarChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Data/Interfaces/IScatterChartDataSet.swift
+Example/Pods/Charts/Source/Charts/Filters/DataApproximator+N.swift
+Example/Pods/Charts/Source/Charts/Filters/DataApproximator.swift
+Example/Pods/Charts/Source/Charts/Formatters/DefaultAxisValueFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/DefaultFillFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/DefaultValueFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/IAxisValueFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/IFillFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/IndexAxisValueFormatter.swift
+Example/Pods/Charts/Source/Charts/Formatters/IValueFormatter.swift
+Example/Pods/Charts/Source/Charts/Highlight/BarHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/ChartHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/CombinedHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/Highlight.swift
+Example/Pods/Charts/Source/Charts/Highlight/HorizontalBarHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/IHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/PieHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/PieRadarHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/RadarHighlighter.swift
+Example/Pods/Charts/Source/Charts/Highlight/Range.swift
+Example/Pods/Charts/Source/Charts/Interfaces/BarChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/BarLineScatterCandleBubbleChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/BubbleChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/CandleChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/ChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/CombinedChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/LineChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Interfaces/ScatterChartDataProvider.swift
+Example/Pods/Charts/Source/Charts/Jobs/AnimatedMoveViewJob.swift
+Example/Pods/Charts/Source/Charts/Jobs/AnimatedViewPortJob.swift
+Example/Pods/Charts/Source/Charts/Jobs/AnimatedZoomViewJob.swift
+Example/Pods/Charts/Source/Charts/Jobs/MoveViewJob.swift
+Example/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift
+Example/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift
+Example/Pods/Charts/Source/Charts/Renderers/AxisRendererBase.swift
+Example/Pods/Charts/Source/Charts/Renderers/BarChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/BarLineScatterCandleBubbleRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/BubbleChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/CandleStickChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/ChartDataRendererBase.swift
+Example/Pods/Charts/Source/Charts/Renderers/CombinedChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/HorizontalBarChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/LegendRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/LineRadarRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/LineScatterCandleRadarRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/PieChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/RadarChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Renderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/ScatterChartRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift
+Example/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift
+Example/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift
+Example/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronDownShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronUpShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/CircleShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/CrossShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/IShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/SquareShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/TriangleShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Renderers/Scatter/XShapeRenderer.swift
+Example/Pods/Charts/Source/Charts/Utils/ChartColorTemplates.swift
+Example/Pods/Charts/Source/Charts/Utils/ChartUtils.swift
+Example/Pods/Charts/Source/Charts/Utils/Fill.swift
+Example/Pods/Charts/Source/Charts/Utils/Platform.swift
+Example/Pods/Charts/Source/Charts/Utils/Transformer.swift
+Example/Pods/Charts/Source/Charts/Utils/TransformerHorizontalBarChart.swift
+Example/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift
+Example/Pods/IJKMediaFramework/LICENSE
+Example/Pods/IJKMediaFramework/README.md
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/IJKMediaFramework
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Info.plist
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKAVMoviePlayerController.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKFFMonitor.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKFFMoviePlayerController.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKFFOptions.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKKVOController.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKMediaFramework.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKMediaModule.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKMediaPlayback.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKMediaPlayer.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKMPMoviePlayerController.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKNotificationManager.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Headers/IJKSDLGLViewProtocol.h
+Example/Pods/IJKMediaFramework/IJKMediaFramework/Classes/IJKMediaFramework.framework/Modules/module.modulemap
+Example/Pods/JSONModel/LICENSE
+Example/Pods/JSONModel/README.md
+Example/Pods/JSONModel/JSONModel/JSONModelLib.h
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModel.h
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModel.m
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModelClassProperty.h
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModelClassProperty.m
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModelError.h
+Example/Pods/JSONModel/JSONModel/JSONModel/JSONModelError.m
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONAPI.h
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONAPI.m
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONHTTPClient.h
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONHTTPClient.m
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONModel+networking.h
+Example/Pods/JSONModel/JSONModel/JSONModelNetworking/JSONModel+networking.m
+Example/Pods/JSONModel/JSONModel/JSONModelTransformations/JSONKeyMapper.h
+Example/Pods/JSONModel/JSONModel/JSONModelTransformations/JSONKeyMapper.m
+Example/Pods/JSONModel/JSONModel/JSONModelTransformations/JSONValueTransformer.h
+Example/Pods/JSONModel/JSONModel/JSONModelTransformations/JSONValueTransformer.m
+Example/Pods/LGAlertHUD/LICENSE
+Example/Pods/LGAlertHUD/README.md
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.h
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.m
+Example/Pods/LGAlertHUD/LGAlertHUD/LGProgressHUD.h
+Example/Pods/LGAlertHUD/LGAlertHUD/LGProgressHUD.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/UIWindow+YJAlertView.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/UIWindow+YJAlertView.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertView.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertView.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewButton.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewButton.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewButtonProperties.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewButtonProperties.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewCell.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewCell.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewController.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewController.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewHelper.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewHelper.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewShadowView.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewShadowView.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewShared.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewTextField.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewTextField.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindow.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindow.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindowContainer.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindowContainer.m
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindowsObserver.h
+Example/Pods/LGAlertHUD/LGAlertHUD/AlertView/YJAlertViewWindowsObserver.m
+Example/Pods/LGAlertHUD/LGAlertHUD/Lancoo/YJLancooAlert.h
+Example/Pods/LGAlertHUD/LGAlertHUD/Lancoo/YJLancooAlert.m
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lancoo_1@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lancoo_1@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_error.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_error@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_error@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_success.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_success@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_success@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_warning.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_warning@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_hud_warning@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_success.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_success@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_success@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_tip.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_tip@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_tip@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_warn.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_warn@2x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/lg_warn@3x.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环1.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环10.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环2.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环3.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环4.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环5.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环6.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环7.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环8.png
+Example/Pods/LGAlertHUD/LGAlertHUD/LGAlertHUD.bundle/Recorder_GIF_PNG/Audio_GIF_1循环9.png
+Example/Pods/Local Podspecs/LGEnglishTrainingFramework.podspec.json
+Example/Pods/MarqueeLabel/LICENSE
+Example/Pods/MarqueeLabel/README.mdown
+Example/Pods/MarqueeLabel/Sources/ObjC/MarqueeLabel.h
+Example/Pods/MarqueeLabel/Sources/ObjC/MarqueeLabel.m
+Example/Pods/Masonry/LICENSE
+Example/Pods/Masonry/README.md
+Example/Pods/Masonry/Masonry/MASCompositeConstraint.h
+Example/Pods/Masonry/Masonry/MASCompositeConstraint.m
+Example/Pods/Masonry/Masonry/MASConstraint+Private.h
+Example/Pods/Masonry/Masonry/MASConstraint.h
+Example/Pods/Masonry/Masonry/MASConstraint.m
+Example/Pods/Masonry/Masonry/MASConstraintMaker.h
+Example/Pods/Masonry/Masonry/MASConstraintMaker.m
+Example/Pods/Masonry/Masonry/MASLayoutConstraint.h
+Example/Pods/Masonry/Masonry/MASLayoutConstraint.m
+Example/Pods/Masonry/Masonry/Masonry.h
+Example/Pods/Masonry/Masonry/MASUtilities.h
+Example/Pods/Masonry/Masonry/MASViewAttribute.h
+Example/Pods/Masonry/Masonry/MASViewAttribute.m
+Example/Pods/Masonry/Masonry/MASViewConstraint.h
+Example/Pods/Masonry/Masonry/MASViewConstraint.m
+Example/Pods/Masonry/Masonry/NSArray+MASAdditions.h
+Example/Pods/Masonry/Masonry/NSArray+MASAdditions.m
+Example/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h
+Example/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h
+Example/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m
+Example/Pods/Masonry/Masonry/View+MASAdditions.h
+Example/Pods/Masonry/Masonry/View+MASAdditions.m
+Example/Pods/Masonry/Masonry/View+MASShorthandAdditions.h
+Example/Pods/Masonry/Masonry/ViewController+MASAdditions.h
+Example/Pods/Masonry/Masonry/ViewController+MASAdditions.m
+Example/Pods/MBProgressHUD/LICENSE
+Example/Pods/MBProgressHUD/MBProgressHUD.h
+Example/Pods/MBProgressHUD/MBProgressHUD.m
+Example/Pods/MBProgressHUD/README.mdown
+Example/Pods/MJExtension/LICENSE
+Example/Pods/MJExtension/README.md
+Example/Pods/MJExtension/MJExtension/MJExtension.h
+Example/Pods/MJExtension/MJExtension/MJExtensionConst.h
+Example/Pods/MJExtension/MJExtension/MJExtensionConst.m
+Example/Pods/MJExtension/MJExtension/MJFoundation.h
+Example/Pods/MJExtension/MJExtension/MJFoundation.m
+Example/Pods/MJExtension/MJExtension/MJProperty.h
+Example/Pods/MJExtension/MJExtension/MJProperty.m
+Example/Pods/MJExtension/MJExtension/MJPropertyKey.h
+Example/Pods/MJExtension/MJExtension/MJPropertyKey.m
+Example/Pods/MJExtension/MJExtension/MJPropertyType.h
+Example/Pods/MJExtension/MJExtension/MJPropertyType.m
+Example/Pods/MJExtension/MJExtension/NSObject+MJClass.h
+Example/Pods/MJExtension/MJExtension/NSObject+MJClass.m
+Example/Pods/MJExtension/MJExtension/NSObject+MJCoding.h
+Example/Pods/MJExtension/MJExtension/NSObject+MJCoding.m
+Example/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h
+Example/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.m
+Example/Pods/MJExtension/MJExtension/NSObject+MJProperty.h
+Example/Pods/MJExtension/MJExtension/NSObject+MJProperty.m
+Example/Pods/MJExtension/MJExtension/NSString+MJExtension.h
+Example/Pods/MJExtension/MJExtension/NSString+MJExtension.m
+Example/Pods/MJRefresh/LICENSE
+Example/Pods/MJRefresh/README.md
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.h
+Example/Pods/MJRefresh/MJRefresh/MJRefreshConfig.h
+Example/Pods/MJRefresh/MJRefresh/MJRefreshConfig.m
+Example/Pods/MJRefresh/MJRefresh/MJRefreshConst.h
+Example/Pods/MJRefresh/MJRefresh/MJRefreshConst.m
+Example/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.h
+Example/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.m
+Example/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h
+Example/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.m
+Example/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h
+Example/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m
+Example/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h
+Example/Pods/MJRefresh/MJRefresh/UIView+MJExtension.m
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.m
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h
+Example/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h
+Example/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/arrow@2x.png
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/en.lproj/Localizable.strings
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/ko.lproj/Localizable.strings
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+Example/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+Example/Pods/Pods.xcodeproj/project.pbxproj
+Example/Pods/PSGChainedMode/LICENSE
+Example/Pods/PSGChainedMode/README.md
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/CALayer+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/CALayer+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIButton+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIButton+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UICollectionView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UICollectionView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UICollectionViewFlowLayout+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UICollectionViewFlowLayout+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIControl+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIControl+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIImageView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIImageView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UILabel+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UILabel+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIScrollView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIScrollView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITableView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITableView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITextField+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITextField+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITextView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UITextView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIView+PSG_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/UIView+PSG_ChainFunction.m
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/PSG_Customer_ChainFunction/NSObject+PSG_Customer_ChainFunction.h
+Example/Pods/PSGChainedMode/PSG_ChainedMode/PSGChainedMode/PSG_Customer_ChainFunction/NSObject+PSG_Customer_ChainFunction.m
+Example/Pods/Reachability/LICENCE.txt
+Example/Pods/Reachability/Reachability.h
+Example/Pods/Reachability/Reachability.m
+Example/Pods/Reachability/README.md
+Example/Pods/ReactiveObjC/LICENSE.md
+Example/Pods/ReactiveObjC/README.md
+Example/Pods/ReactiveObjC/ReactiveObjC/MKAnnotationView+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/MKAnnotationView+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSArray+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSArray+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSData+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSData+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSDictionary+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSDictionary+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSEnumerator+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSEnumerator+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSFileHandle+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSFileHandle+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSIndexSet+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSIndexSet+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSInvocation+RACTypeParsing.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSInvocation+RACTypeParsing.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSNotificationCenter+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSNotificationCenter+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDeallocating.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDeallocating.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDescription.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDescription.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACKVOWrapper.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACLifting.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACLifting.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACPropertySubscribing.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACPropertySubscribing.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACSelectorSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSOrderedSet+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSOrderedSet+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSSet+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSSet+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACKeyPathUtilities.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACKeyPathUtilities.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACSequenceAdditions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACSequenceAdditions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSString+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSURLConnection+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSURLConnection+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/NSUserDefaults+RACSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/NSUserDefaults+RACSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACAnnotations.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACArraySequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACArraySequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACBehaviorSubject.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACBehaviorSubject.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACChannel.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACChannel.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACCommand.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACCompoundDisposable.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACCompoundDisposable.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACCompoundDisposableProvider.d
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDelegateProxy.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDelegateProxy.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDynamicSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDynamicSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDynamicSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACDynamicSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEagerSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEagerSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEmptySequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEmptySequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEmptySignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEmptySignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACErrorSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACErrorSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEvent.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACEvent.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACGroupedSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACGroupedSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACImmediateScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACImmediateScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACIndexSetSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACIndexSetSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOChannel.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOChannel.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOProxy.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOProxy.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOTrampoline.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACKVOTrampoline.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACMulticastConnection+Private.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACMulticastConnection.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACMulticastConnection.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACPassthroughSubscriber.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACPassthroughSubscriber.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACQueueScheduler+Subclass.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACQueueScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACQueueScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACReturnSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACReturnSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScheduler+Private.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScheduler+Subclass.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScopedDisposable.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACScopedDisposable.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSerialDisposable.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSerialDisposable.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignal.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignal.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignalProvider.d
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignalSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSignalSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACStream+Private.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACStream.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACStream.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACStringSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACStringSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubject.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubject.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriber+Private.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriber.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriber.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriptingAssignmentTrampoline.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriptingAssignmentTrampoline.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriptionScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACSubscriptionScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTargetQueueScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTargetQueueScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTestScheduler.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTestScheduler.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTuple.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTuple.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTupleSequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACTupleSequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACUnarySequence.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACUnarySequence.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACUnit.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACUnit.m
+Example/Pods/ReactiveObjC/ReactiveObjC/RACValueTransformer.h
+Example/Pods/ReactiveObjC/ReactiveObjC/RACValueTransformer.m
+Example/Pods/ReactiveObjC/ReactiveObjC/ReactiveObjC.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIActionSheet+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIActionSheet+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIAlertView+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIAlertView+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIBarButtonItem+RACCommandSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIBarButtonItem+RACCommandSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIButton+RACCommandSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIButton+RACCommandSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UICollectionReusableView+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UICollectionReusableView+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIControl+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIControl+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIControl+RACSignalSupportPrivate.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIControl+RACSignalSupportPrivate.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIDatePicker+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIDatePicker+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIGestureRecognizer+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIGestureRecognizer+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIImagePickerController+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIImagePickerController+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIRefreshControl+RACCommandSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIRefreshControl+RACCommandSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UISegmentedControl+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UISegmentedControl+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UISlider+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UISlider+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UIStepper+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UIStepper+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UISwitch+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UISwitch+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UITableViewCell+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UITableViewCell+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UITableViewHeaderFooterView+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UITableViewHeaderFooterView+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UITextField+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UITextField+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/UITextView+RACSignalSupport.h
+Example/Pods/ReactiveObjC/ReactiveObjC/UITextView+RACSignalSupport.m
+Example/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTKeyPathCoding.h
+Example/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.h
+Example/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m
+Example/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACEXTScope.h
+Example/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACmetamacros.h
+Example/Pods/SDWebImage/LICENSE
+Example/Pods/SDWebImage/README.md
+Example/Pods/SDWebImage/SDWebImage/NSButton+WebCache.h
+Example/Pods/SDWebImage/SDWebImage/NSButton+WebCache.m
+Example/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+Example/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+Example/Pods/SDWebImage/SDWebImage/NSImage+Compatibility.h
+Example/Pods/SDWebImage/SDWebImage/NSImage+Compatibility.m
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImage.h
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImage.m
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageRep.h
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageRep.m
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageView+WebCache.h
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageView+WebCache.m
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageView.h
+Example/Pods/SDWebImage/SDWebImage/SDAnimatedImageView.m
+Example/Pods/SDWebImage/SDWebImage/SDDiskCache.h
+Example/Pods/SDWebImage/SDWebImage/SDDiskCache.m
+Example/Pods/SDWebImage/SDWebImage/SDImageAPNGCoder.h
+Example/Pods/SDWebImage/SDWebImage/SDImageAPNGCoder.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCache.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCache.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCacheDefine.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCacheDefine.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCachesManager.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCachesManager.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCoder.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCoder.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCoderHelper.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCoderHelper.m
+Example/Pods/SDWebImage/SDWebImage/SDImageCodersManager.h
+Example/Pods/SDWebImage/SDWebImage/SDImageCodersManager.m
+Example/Pods/SDWebImage/SDWebImage/SDImageFrame.h
+Example/Pods/SDWebImage/SDWebImage/SDImageFrame.m
+Example/Pods/SDWebImage/SDWebImage/SDImageGIFCoder.h
+Example/Pods/SDWebImage/SDWebImage/SDImageGIFCoder.m
+Example/Pods/SDWebImage/SDWebImage/SDImageGraphics.h
+Example/Pods/SDWebImage/SDWebImage/SDImageGraphics.m
+Example/Pods/SDWebImage/SDWebImage/SDImageIOCoder.h
+Example/Pods/SDWebImage/SDWebImage/SDImageIOCoder.m
+Example/Pods/SDWebImage/SDWebImage/SDImageLoader.h
+Example/Pods/SDWebImage/SDWebImage/SDImageLoader.m
+Example/Pods/SDWebImage/SDWebImage/SDImageLoadersManager.h
+Example/Pods/SDWebImage/SDWebImage/SDImageLoadersManager.m
+Example/Pods/SDWebImage/SDWebImage/SDImageTransformer.h
+Example/Pods/SDWebImage/SDWebImage/SDImageTransformer.m
+Example/Pods/SDWebImage/SDWebImage/SDMemoryCache.h
+Example/Pods/SDWebImage/SDWebImage/SDMemoryCache.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCacheKeyFilter.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCacheKeyFilter.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCacheSerializer.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCacheSerializer.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDefine.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDefine.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderConfig.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderConfig.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderRequestModifier.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderRequestModifier.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageError.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageError.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageIndicator.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageIndicator.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+Example/Pods/SDWebImage/SDWebImage/SDWebImageTransition.h
+Example/Pods/SDWebImage/SDWebImage/SDWebImageTransition.m
+Example/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+Example/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+MemoryCacheCost.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+MemoryCacheCost.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+Metadata.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+Metadata.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+Example/Pods/SDWebImage/SDWebImage/UIImage+Transform.h
+Example/Pods/SDWebImage/SDWebImage/UIImage+Transform.m
+Example/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h
+Example/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.m
+Example/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+Example/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+Example/Pods/SDWebImage/SDWebImage/UIView+WebCache.h
+Example/Pods/SDWebImage/SDWebImage/UIView+WebCache.m
+Example/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h
+Example/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.m
+Example/Pods/SDWebImage/SDWebImage/Private/NSBezierPath+RoundedCorners.h
+Example/Pods/SDWebImage/SDWebImage/Private/NSBezierPath+RoundedCorners.m
+Example/Pods/SDWebImage/SDWebImage/Private/SDAsyncBlockOperation.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDAsyncBlockOperation.m
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageAPNGCoderInternal.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageAssetManager.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageAssetManager.m
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageCachesManagerOperation.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageCachesManagerOperation.m
+Example/Pods/SDWebImage/SDWebImage/Private/SDImageGIFCoderInternal.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDInternalMacros.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDInternalMacros.m
+Example/Pods/SDWebImage/SDWebImage/Private/SDmetamacros.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDWeakProxy.h
+Example/Pods/SDWebImage/SDWebImage/Private/SDWeakProxy.m
+Example/Pods/SDWebImage/SDWebImage/Private/UIColor+HexString.h
+Example/Pods/SDWebImage/SDWebImage/Private/UIColor+HexString.m
+Example/Pods/SDWebImage/WebImage/SDWebImage.h
+Example/Pods/SDWebImage/WebImage/SDWebImage.modulemap
+Example/Pods/SGTools/LICENSE
+Example/Pods/SGTools/README.md
+Example/Pods/SGTools/SGTools/Classes/SGAudioPlayer/SGAudioPlayer.h
+Example/Pods/SGTools/SGTools/Classes/SGAudioPlayer/SGAudioPlayer.m
+Example/Pods/SGTools/SGTools/Classes/SGCollectionViewFlowLayout/SGCollectionViewFlowLayout.h
+Example/Pods/SGTools/SGTools/Classes/SGCollectionViewFlowLayout/SGCollectionViewFlowLayout.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGPickerView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGAddressPickerView/SGAddressModel.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGAddressPickerView/SGAddressModel.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGAddressPickerView/SGAddressPickerView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGAddressPickerView/SGAddressPickerView.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGAddressPickerView/SGPickerView.bundle/SGCity.plist
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGBase/SGBaseView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGBase/SGBaseView.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGBase/SGPickerViewMacro.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGDatePickerView/NSDate+SGPickerView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGDatePickerView/NSDate+SGPickerView.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGDatePickerView/SGDatePickerView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGDatePickerView/SGDatePickerView.m
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGStringPickerView/SGStringPickerView.h
+Example/Pods/SGTools/SGTools/Classes/SGPickerView/SGStringPickerView/SGStringPickerView.m
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.h
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.m
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_back.png
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_back@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_back@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_search.png
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_search@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGSearchController/SGSearchController.bundle/sg_icon_search@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGShadowView/SGShadowView.h
+Example/Pods/SGTools/SGTools/Classes/SGShadowView/SGShadowView.m
+Example/Pods/SGTools/SGTools/Classes/SGSingleAudioPlayer/SGSingleAudioPlayer.h
+Example/Pods/SGTools/SGTools/Classes/SGSingleAudioPlayer/SGSingleAudioPlayer.m
+Example/Pods/SGTools/SGTools/Classes/SGSpeechSynthesizer/SGSpeechSynthesizerManager.h
+Example/Pods/SGTools/SGTools/Classes/SGSpeechSynthesizer/SGSpeechSynthesizerManager.m
+Example/Pods/SGTools/SGTools/Classes/SGTriangleView/SGTriangleView.h
+Example/Pods/SGTools/SGTools/Classes/SGTriangleView/SGTriangleView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyAnswerView.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyAnswerView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictationView.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictationView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyKeyboardView.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyKeyboardView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularySpellingView.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularySpellingView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyTools.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyTools.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyVoiceView.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyVoiceView.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/UIImage+SGVocabularyResource.h
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/UIImage+SGVocabularyResource.m
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_default.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_default@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_default@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_ensure.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_ensure@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_ensure@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_selected.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_selected@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_keyboard_selected@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_down.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_down@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_down@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_up.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_up@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_lookAnswer_up@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_spelling_delete.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_spelling_delete@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_spelling_delete@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_1.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_1@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_1@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_2.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_2@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_2@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_3.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_3@2x.png
+Example/Pods/SGTools/SGTools/Classes/SGVocabularyDictation/SGVocabularyDictation.bundle/SGDictation/sg_dictation_icon_voice_animation_3@3x.png
+Example/Pods/SGTools/SGTools/Classes/SGVoiceAnimationView/SGVoiceAnimationView.h
+Example/Pods/SGTools/SGTools/Classes/SGVoiceAnimationView/SGVoiceAnimationView.m
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-Info.plist
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch
+Example/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h
+Example/Pods/Target Support Files/AFNetworking/AFNetworking.modulemap
+Example/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig
+Example/Pods/Target Support Files/Charts/Charts-dummy.m
+Example/Pods/Target Support Files/Charts/Charts-Info.plist
+Example/Pods/Target Support Files/Charts/Charts-prefix.pch
+Example/Pods/Target Support Files/Charts/Charts-umbrella.h
+Example/Pods/Target Support Files/Charts/Charts.modulemap
+Example/Pods/Target Support Files/Charts/Charts.xcconfig
+Example/Pods/Target Support Files/IJKMediaFramework/IJKMediaFramework.xcconfig
+Example/Pods/Target Support Files/JSONModel/JSONModel-dummy.m
+Example/Pods/Target Support Files/JSONModel/JSONModel-Info.plist
+Example/Pods/Target Support Files/JSONModel/JSONModel-prefix.pch
+Example/Pods/Target Support Files/JSONModel/JSONModel-umbrella.h
+Example/Pods/Target Support Files/JSONModel/JSONModel.modulemap
+Example/Pods/Target Support Files/JSONModel/JSONModel.xcconfig
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD-dummy.m
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD-Info.plist
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD-prefix.pch
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD-umbrella.h
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD.modulemap
+Example/Pods/Target Support Files/LGAlertHUD/LGAlertHUD.xcconfig
+Example/Pods/Target Support Files/LGEnglishTrainingFramework/LGEnglishTrainingFramework.xcconfig
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel-dummy.m
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel-Info.plist
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel-prefix.pch
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel-umbrella.h
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel.modulemap
+Example/Pods/Target Support Files/MarqueeLabel/MarqueeLabel.xcconfig
+Example/Pods/Target Support Files/Masonry/Masonry-dummy.m
+Example/Pods/Target Support Files/Masonry/Masonry-Info.plist
+Example/Pods/Target Support Files/Masonry/Masonry-prefix.pch
+Example/Pods/Target Support Files/Masonry/Masonry-umbrella.h
+Example/Pods/Target Support Files/Masonry/Masonry.modulemap
+Example/Pods/Target Support Files/Masonry/Masonry.xcconfig
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-dummy.m
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-Info.plist
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-prefix.pch
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.modulemap
+Example/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig
+Example/Pods/Target Support Files/MJExtension/MJExtension-dummy.m
+Example/Pods/Target Support Files/MJExtension/MJExtension-Info.plist
+Example/Pods/Target Support Files/MJExtension/MJExtension-prefix.pch
+Example/Pods/Target Support Files/MJExtension/MJExtension-umbrella.h
+Example/Pods/Target Support Files/MJExtension/MJExtension.modulemap
+Example/Pods/Target Support Files/MJExtension/MJExtension.xcconfig
+Example/Pods/Target Support Files/MJRefresh/MJRefresh-dummy.m
+Example/Pods/Target Support Files/MJRefresh/MJRefresh-Info.plist
+Example/Pods/Target Support Files/MJRefresh/MJRefresh-prefix.pch
+Example/Pods/Target Support Files/MJRefresh/MJRefresh-umbrella.h
+Example/Pods/Target Support Files/MJRefresh/MJRefresh.modulemap
+Example/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-dummy.m
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-frameworks.sh
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-Info.plist
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-resources.sh
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example-umbrella.h
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example.debug.xcconfig
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example.modulemap
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example.release.xcconfig
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests-dummy.m
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests-Info.plist
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests-umbrella.h
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests.debug.xcconfig
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests.modulemap
+Example/Pods/Target Support Files/Pods-LGEnglishTrainingFramework_Tests/Pods-LGEnglishTrainingFramework_Tests.release.xcconfig
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode-dummy.m
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode-Info.plist
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode-prefix.pch
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode-umbrella.h
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode.modulemap
+Example/Pods/Target Support Files/PSGChainedMode/PSGChainedMode.xcconfig
+Example/Pods/Target Support Files/Reachability/Reachability-dummy.m
+Example/Pods/Target Support Files/Reachability/Reachability-Info.plist
+Example/Pods/Target Support Files/Reachability/Reachability-prefix.pch
+Example/Pods/Target Support Files/Reachability/Reachability-umbrella.h
+Example/Pods/Target Support Files/Reachability/Reachability.modulemap
+Example/Pods/Target Support Files/Reachability/Reachability.xcconfig
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC-dummy.m
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC-Info.plist
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC-prefix.pch
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC-umbrella.h
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC.modulemap
+Example/Pods/Target Support Files/ReactiveObjC/ReactiveObjC.xcconfig
+Example/Pods/Target Support Files/SDWebImage/SDWebImage-dummy.m
+Example/Pods/Target Support Files/SDWebImage/SDWebImage-Info.plist
+Example/Pods/Target Support Files/SDWebImage/SDWebImage-prefix.pch
+Example/Pods/Target Support Files/SDWebImage/SDWebImage.modulemap
+Example/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig
+Example/Pods/Target Support Files/SGTools/SGTools-dummy.m
+Example/Pods/Target Support Files/SGTools/SGTools-Info.plist
+Example/Pods/Target Support Files/SGTools/SGTools-prefix.pch
+Example/Pods/Target Support Files/SGTools/SGTools-umbrella.h
+Example/Pods/Target Support Files/SGTools/SGTools.modulemap
+Example/Pods/Target Support Files/SGTools/SGTools.xcconfig
+Example/Pods/Target Support Files/TFHpple/TFHpple-dummy.m
+Example/Pods/Target Support Files/TFHpple/TFHpple-Info.plist
+Example/Pods/Target Support Files/TFHpple/TFHpple-prefix.pch
+Example/Pods/Target Support Files/TFHpple/TFHpple-umbrella.h
+Example/Pods/Target Support Files/TFHpple/TFHpple.modulemap
+Example/Pods/Target Support Files/TFHpple/TFHpple.xcconfig
+Example/Pods/Target Support Files/YJExtensions/YJExtensions-dummy.m
+Example/Pods/Target Support Files/YJExtensions/YJExtensions-Info.plist
+Example/Pods/Target Support Files/YJExtensions/YJExtensions-prefix.pch
+Example/Pods/Target Support Files/YJExtensions/YJExtensions-umbrella.h
+Example/Pods/Target Support Files/YJExtensions/YJExtensions.modulemap
+Example/Pods/Target Support Files/YJExtensions/YJExtensions.xcconfig
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer-dummy.m
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer-Info.plist
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer-prefix.pch
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer-umbrella.h
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer.modulemap
+Example/Pods/Target Support Files/YJMediaPlayer/YJMediaPlayer.xcconfig
+Example/Pods/Target Support Files/YJNetManager/YJNetManager-dummy.m
+Example/Pods/Target Support Files/YJNetManager/YJNetManager-Info.plist
+Example/Pods/Target Support Files/YJNetManager/YJNetManager-prefix.pch
+Example/Pods/Target Support Files/YJNetManager/YJNetManager-umbrella.h
+Example/Pods/Target Support Files/YJNetManager/YJNetManager.modulemap
+Example/Pods/Target Support Files/YJNetManager/YJNetManager.xcconfig
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation-dummy.m
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation-Info.plist
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation-prefix.pch
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation-umbrella.h
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation.modulemap
+Example/Pods/Target Support Files/YJPresentAnimation/YJPresentAnimation.xcconfig
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark-dummy.m
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark-Info.plist
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark-prefix.pch
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark-umbrella.h
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark.modulemap
+Example/Pods/Target Support Files/YJTaskMark/YJTaskMark.xcconfig
+Example/Pods/Target Support Files/YYText/YYText-dummy.m
+Example/Pods/Target Support Files/YYText/YYText-Info.plist
+Example/Pods/Target Support Files/YYText/YYText-prefix.pch
+Example/Pods/Target Support Files/YYText/YYText-umbrella.h
+Example/Pods/Target Support Files/YYText/YYText.modulemap
+Example/Pods/Target Support Files/YYText/YYText.xcconfig
+Example/Pods/TFHpple/LICENSE
+Example/Pods/TFHpple/README.md
+Example/Pods/TFHpple/Classess/TFHpple.h
+Example/Pods/TFHpple/Classess/TFHpple.m
+Example/Pods/TFHpple/Classess/TFHppleElement.h
+Example/Pods/TFHpple/Classess/TFHppleElement.m
+Example/Pods/TFHpple/Classess/XPathQuery.h
+Example/Pods/TFHpple/Classess/XPathQuery.m
+Example/Pods/YJExtensions/LICENSE
+Example/Pods/YJExtensions/README.md
+Example/Pods/YJExtensions/YJExtensions/YJExtensions.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSArray+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSArray+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSBundle+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSBundle+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSDate+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSDate+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSDictionary+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSDictionary+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSFileManager+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSFileManager+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSMutableAttributedString+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSMutableAttributedString+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSNumber+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSNumber+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSObject+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSObject+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSString+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSString+YJ.m
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSUserDefaults+YJ.h
+Example/Pods/YJExtensions/YJExtensions/Foundation/NSUserDefaults+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIButton+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIButton+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIColor+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIColor+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIDevice+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIDevice+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIImage+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIImage+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIImageView+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIImageView+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UINavigationBar+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UINavigationBar+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIView+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIView+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIViewController+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIViewController+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIWebView+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIWebView+YJ.m
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIWindow+YJ.h
+Example/Pods/YJExtensions/YJExtensions/UIKit/UIWindow+YJ.m
+Example/Pods/YJMediaPlayer/LICENSE
+Example/Pods/YJMediaPlayer/README.md
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/NSBundle+YJIJKPlayerView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/NSBundle+YJIJKPlayerView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIButton+YJIJKPlayerRotation.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIButton+YJIJKPlayerRotation.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIColor+YJIJKPlayerView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIColor+YJIJKPlayerView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIImage+YJIJKPlayerView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIImage+YJIJKPlayerView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIView+YJIJKPlayerView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Category/UIView+YJIJKPlayerView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKLrcCell.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKLrcCell.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKLrcView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKLrcView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKSrtModel.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Lrc/YJIJKSrtModel.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Model/YJIJKPlayerModel.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Model/YJIJKPlayerModel.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Model/YJIJKPlayerStatusModel.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Model/YJIJKPlayerStatusModel.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Player/YJIJKPlayerManager.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Player/YJIJKPlayerManager.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Player/YJIJKVideoPlayer.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/Player/YJIJKVideoPlayer.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKBrightnessView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKBrightnessView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKCoverControlView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKCoverControlView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKLandScapeControlView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKLandScapeControlView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKLoadingView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKLoadingView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKMaterialDesignSpinner.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKMaterialDesignSpinner.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKPlayerControlView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKPlayerControlView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKPortraitControlView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKPortraitControlView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKVideoPlayerView.h
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/View/YJIJKVideoPlayerView.m
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/brightness.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/lg_update@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/lg_update@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/placeholderImage@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/placeholderImage@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_back.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_back@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_back@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_fullscreen.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_fullscreen@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_fullscreen@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_lock.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_lock@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_lock@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_more.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_more@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_more@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_mute.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_mute@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_mute@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_pause.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_pause@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_pause@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_play.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_play@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_play@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_restype_voice@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_restype_voice@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_reverse.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_reverse@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_reverse@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_snip.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_snip@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_snip@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_speed.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_speed@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_speed@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_start_play.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_start_play@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_start_play@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_thumb@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_thumb@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unlock.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unlock@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unlock@3x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unmute.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unmute@2x.png
+Example/Pods/YJMediaPlayer/YJMediaPlayer/Classes/YJMediaPlayer.bundle/yj_unmute@3x.png
+Example/Pods/YJNetManager/LICENSE
+Example/Pods/YJNetManager/README.md
+Example/Pods/YJNetManager/YJNetManager/NSError+YJNetManager.h
+Example/Pods/YJNetManager/YJNetManager/NSError+YJNetManager.m
+Example/Pods/YJNetManager/YJNetManager/YJNetManager.h
+Example/Pods/YJNetManager/YJNetManager/YJNetManager.m
+Example/Pods/YJNetManager/YJNetManager/YJNetMonitoring.h
+Example/Pods/YJNetManager/YJNetManager/YJNetMonitoring.m
+Example/Pods/YJNetManager/YJNetManager/YJSubtitleParser.h
+Example/Pods/YJNetManager/YJNetManager/YJSubtitleParser.m
+Example/Pods/YJNetManager/YJNetManager/YJUploadModel.h
+Example/Pods/YJNetManager/YJNetManager/YJUploadModel.m
+Example/Pods/YJPresentAnimation/LICENSE
+Example/Pods/YJPresentAnimation/README.md
+Example/Pods/YJPresentAnimation/YJPresentAnimation/Classes/YJPresentPopAnimation.h
+Example/Pods/YJPresentAnimation/YJPresentAnimation/Classes/YJPresentPopAnimation.m
+Example/Pods/YJPresentAnimation/YJPresentAnimation/Classes/YJPresentPushAnimation.h
+Example/Pods/YJPresentAnimation/YJPresentAnimation/Classes/YJPresentPushAnimation.m
+Example/Pods/YJTaskMark/LICENSE
+Example/Pods/YJTaskMark/README.md
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYAudio/KYPlayer.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYAudio/KYPlayer.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYAudio/KYRecorder.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYAudio/KYRecorder.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYAudio/KYWavHeader.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYStartEngineConfig.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYStartEngineConfig.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYTestConfig.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYTestConfig.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYTestEngine.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/KYEngine/KYTestEngine.mm
+Example/Pods/YJTaskMark/YJTaskMark/Classes/kouyu/skegn-ios/skegn.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Lib/libopus.a
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Lib/libskegn.a
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechFileManager.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechFileManager.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechManager.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechManager.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechMark.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechResModel.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechResModel.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechResultModel.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechResultModel.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechTimer.h
+Example/Pods/YJTaskMark/YJTaskMark/Classes/Util/YJSpeechTimer.m
+Example/Pods/YJTaskMark/YJTaskMark/Classes/YJTaskMark.bundle/native.res
+Example/Pods/YJTaskMark/YJTaskMark/Classes/YJTaskMark.bundle/skegn.provision
+Example/Pods/YYText/LICENSE
+Example/Pods/YYText/README.md
+Example/Pods/YYText/YYText/YYLabel.h
+Example/Pods/YYText/YYText/YYLabel.m
+Example/Pods/YYText/YYText/YYText.h
+Example/Pods/YYText/YYText/YYTextView.h
+Example/Pods/YYText/YYText/YYTextView.m
+Example/Pods/YYText/YYText/Component/YYTextContainerView.h
+Example/Pods/YYText/YYText/Component/YYTextContainerView.m
+Example/Pods/YYText/YYText/Component/YYTextDebugOption.h
+Example/Pods/YYText/YYText/Component/YYTextDebugOption.m
+Example/Pods/YYText/YYText/Component/YYTextEffectWindow.h
+Example/Pods/YYText/YYText/Component/YYTextEffectWindow.m
+Example/Pods/YYText/YYText/Component/YYTextInput.h
+Example/Pods/YYText/YYText/Component/YYTextInput.m
+Example/Pods/YYText/YYText/Component/YYTextKeyboardManager.h
+Example/Pods/YYText/YYText/Component/YYTextKeyboardManager.m
+Example/Pods/YYText/YYText/Component/YYTextLayout.h
+Example/Pods/YYText/YYText/Component/YYTextLayout.m
+Example/Pods/YYText/YYText/Component/YYTextLine.h
+Example/Pods/YYText/YYText/Component/YYTextLine.m
+Example/Pods/YYText/YYText/Component/YYTextMagnifier.h
+Example/Pods/YYText/YYText/Component/YYTextMagnifier.m
+Example/Pods/YYText/YYText/Component/YYTextSelectionView.h
+Example/Pods/YYText/YYText/Component/YYTextSelectionView.m
+Example/Pods/YYText/YYText/String/YYTextArchiver.h
+Example/Pods/YYText/YYText/String/YYTextArchiver.m
+Example/Pods/YYText/YYText/String/YYTextAttribute.h
+Example/Pods/YYText/YYText/String/YYTextAttribute.m
+Example/Pods/YYText/YYText/String/YYTextParser.h
+Example/Pods/YYText/YYText/String/YYTextParser.m
+Example/Pods/YYText/YYText/String/YYTextRubyAnnotation.h
+Example/Pods/YYText/YYText/String/YYTextRubyAnnotation.m
+Example/Pods/YYText/YYText/String/YYTextRunDelegate.h
+Example/Pods/YYText/YYText/String/YYTextRunDelegate.m
+Example/Pods/YYText/YYText/Utility/NSAttributedString+YYText.h
+Example/Pods/YYText/YYText/Utility/NSAttributedString+YYText.m
+Example/Pods/YYText/YYText/Utility/NSParagraphStyle+YYText.h
+Example/Pods/YYText/YYText/Utility/NSParagraphStyle+YYText.m
+Example/Pods/YYText/YYText/Utility/UIPasteboard+YYText.h
+Example/Pods/YYText/YYText/Utility/UIPasteboard+YYText.m
+Example/Pods/YYText/YYText/Utility/UIView+YYText.h
+Example/Pods/YYText/YYText/Utility/UIView+YYText.m
+Example/Pods/YYText/YYText/Utility/YYTextAsyncLayer.h
+Example/Pods/YYText/YYText/Utility/YYTextAsyncLayer.m
+Example/Pods/YYText/YYText/Utility/YYTextTransaction.h
+Example/Pods/YYText/YYText/Utility/YYTextTransaction.m
+Example/Pods/YYText/YYText/Utility/YYTextUtilities.h
+Example/Pods/YYText/YYText/Utility/YYTextUtilities.m
+Example/Pods/YYText/YYText/Utility/YYTextWeakProxy.h
+Example/Pods/YYText/YYText/Utility/YYTextWeakProxy.m
