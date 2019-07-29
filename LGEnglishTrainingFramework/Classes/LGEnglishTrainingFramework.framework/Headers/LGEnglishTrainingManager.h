@@ -17,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
 /** vipStatus 会员状态（1：已开通，但距离到期时间较长；2：未开通；3：已过期；4：已开通，但快过期） */
 #define LGETVipStatusKey [NSString stringWithFormat:@"%@%@vipStatus", LGETManager.userID, LGETManager.freeStudyBaseUrl]
 
+static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishTrainingTokenUselessNotification";
+
 @interface LGEnglishTrainingManager : NSObject
 
 /** 用户ID */
