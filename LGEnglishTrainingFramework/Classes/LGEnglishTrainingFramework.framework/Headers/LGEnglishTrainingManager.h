@@ -22,21 +22,21 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 @interface LGEnglishTrainingManager : NSObject
 
 /** 用户ID */
-@property (nonatomic, strong) NSString *userID;
+@property (nonatomic, copy) NSString *userID;
 /** 用户名 */
-@property (nonatomic, strong) NSString *userName;
+@property (nonatomic, copy) NSString *userName;
 /** 服务器接口地址:http://ip:port */
-@property (nonatomic, strong) NSString *severUrl;
+@property (nonatomic, copy) NSString *severUrl;
+/** 年级ID */
+@property (nonatomic, copy) NSString *classID;
 
-@property (nonatomic, strong) NSString *classID;
+@property (nonatomic, copy) NSString *serverVersionCode;
 
-@property (nonatomic, strong) NSString *serverVersionCode;
+@property (nonatomic, copy) NSString *freeStudyBaseUrl;
 
-@property (nonatomic, strong) NSString *freeStudyBaseUrl;
+@property (nonatomic, copy) NSString *studyLevel;
 
-@property (nonatomic, strong) NSString *studyLevel;
-
-@property (nonatomic, strong) NSString *photoPath;
+@property (nonatomic, copy) NSString *photoPath;
 
 @property (nonatomic, assign, readonly) NSInteger levelId;
 /** (自学模块使用)打开侧边栏 */
@@ -52,6 +52,19 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 /** trainingType 词汇听写：1， 句子听写：2， 听力选择：3， 朗读：4， 跟读：5， 跟读及理解：6， 配音：7， 阅读选择：8 */
 - (void)presentEnglishTrainingControllerBy:(UIViewController *)controller planId:(NSString *)planId trainingType:(NSInteger)trainingType resCode:(NSString *)resCode lastProgress:(NSNumber *)lastProgress;
 - (void (^)(UIViewController *controller, NSString *planId, NSInteger trainingType, NSString *resCode, NSNumber *lastProgress))presentEnglishTrainingController;
+
+/** 进入英语训练模块需要调用大数据推送登陆接口，要传入必要的参数 */
+@property (nonatomic, copy) NSString *schoolName;   //学校名称
+@property (nonatomic, copy) NSString *schoolID;     //学校ID
+@property (nonatomic, copy) NSString *gradeName;    //年级名称
+@property (nonatomic, copy) NSString *gradeID;      //年级ID
+@property (nonatomic, copy) NSString *groupName;    //班级名称
+@property (nonatomic, copy) NSString *groupID;      //班级ID
+@property (nonatomic, copy) NSString *courseNO;     //课程ID
+@property (nonatomic, copy) NSString *courseName;   //课程名称
+@property (nonatomic, copy) NSString *subjectName;  //学科名称
+@property (nonatomic, copy) NSString *subjectID;    //学科ID
+@property (nonatomic, copy) NSString *token;        //用户登录令牌
 
 @end
 
