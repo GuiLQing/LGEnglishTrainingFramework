@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qg1DOUJQllfqu8YCOQOPgPPGvyk=
+		2UYbHu5PPD9R4tuDmfFCmZzxlJM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -215,18 +215,6 @@
 		<key>YJMediaPlayer.bundle/yj_unmute@3x.png</key>
 		<data>
 		3p/KmmTabCxjyHo3E9/bd7Ie1LA=
-		</data>
-		<key>ZZGradientProgress.bundle/circle_point1.png</key>
-		<data>
-		P+0yLiIRziADKFyfPONX+Gs8EJE=
-		</data>
-		<key>ZZGradientProgress.bundle/circle_point2.png</key>
-		<data>
-		35oDgJV5gu4F6Lu6VJ/Nkf0P2vE=
-		</data>
-		<key>ZZGradientProgress.bundle/circle_point3.png</key>
-		<data>
-		LIeMIzmzesUfB0zuJsnkl1g3BWg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -801,39 +789,6 @@
 			<key>hash2</key>
 			<data>
 			sggYRwwpRxJtvwjU7vozkp+Hu1GTDBCarC/6AyPqExs=
-			</data>
-		</dict>
-		<key>ZZGradientProgress.bundle/circle_point1.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			P+0yLiIRziADKFyfPONX+Gs8EJE=
-			</data>
-			<key>hash2</key>
-			<data>
-			q3q63TMeX9BLOhW4OYLaBzg5EnQ96xX6c9irNgIj14M=
-			</data>
-		</dict>
-		<key>ZZGradientProgress.bundle/circle_point2.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			35oDgJV5gu4F6Lu6VJ/Nkf0P2vE=
-			</data>
-			<key>hash2</key>
-			<data>
-			pjhhhtRMbpBUJUVl5rjB12dcX0D4q9GhZ4ZsQGR+ULg=
-			</data>
-		</dict>
-		<key>ZZGradientProgress.bundle/circle_point3.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LIeMIzmzesUfB0zuJsnkl1g3BWg=
-			</data>
-			<key>hash2</key>
-			<data>
-			dEgs36HOZdBen1T8iQvwwLluAW921zTglFA8v8S0Yk0=
 			</data>
 		</dict>
 	</dict>
