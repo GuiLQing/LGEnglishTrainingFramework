@@ -39,10 +39,11 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 @property (nonatomic, copy) NSString *photoPath;
 
 @property (nonatomic, assign, readonly) NSInteger levelId;
-/** (自学模块使用)打开侧边栏 */
-@property (nonatomic, copy) void (^englishTrainingOpenSidebar)(UIViewController *fromController);
+///** (自学模块使用)打开侧边栏 */
+//@property (nonatomic, copy) void (^englishTrainingOpenSidebar)(UIViewController *fromController);
 /** 跳转知识点学习课件 */
 @property (nonatomic, copy) void (^jumpToLGKnowledgeBlock)(UIViewController *fromController, NSString *klgCode);
+@property (nonatomic, copy) void (^jumpToLGKnowledgeAlertBlock) (UIViewController *fromController,NSString *klgCode);
 
 + (LGEnglishTrainingManager *)defaultManager;
 /** 跳转到英语训练主界面 */
@@ -52,6 +53,11 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 /** trainingType 词汇听写：1， 句子听写：2， 听力选择：3， 朗读：4， 跟读：5， 跟读及理解：6， 配音：7， 阅读选择：8 */
 - (void)presentEnglishTrainingControllerBy:(UIViewController *)controller planId:(NSString *)planId trainingType:(NSInteger)trainingType resCode:(NSString *)resCode lastProgress:(NSNumber *)lastProgress;
 - (void (^)(UIViewController *controller, NSString *planId, NSInteger trainingType, NSString *resCode, NSNumber *lastProgress))presentEnglishTrainingController;
+
+#ifdef DEBUG
+/** 测试使用 */
+- (void)pushToSpeakDubbingViewControllerByNavigationController:(UINavigationController *)navigationController;
+#endif
 
 /** 进入英语训练模块需要调用大数据推送登陆接口，要传入必要的参数 */
 @property (nonatomic, copy) NSString *schoolName;   //学校名称
