@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-    s.name             = 'LGEnglishTrainingFramework'
-    s.version          = '1.3.1'
+    s.name             = 'LGEnglishTraining'
+    s.version          = '1.0.0.1'
     s.summary          = 'A short description of LGEnglishTrainingFramework.'
     
     # This description is used to generate tags and improve search results.

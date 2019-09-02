@@ -1,9 +1,9 @@
 # LGEnglishTrainingFramework
 
-[![CI Status](https://img.shields.io/travis/GuiLQing/LGEnglishTrainingFramework.svg?style=flat)](https://travis-ci.org/GuiLQing/LGEnglishTrainingFramework)
-[![Version](https://img.shields.io/cocoapods/v/LGEnglishTrainingFramework.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTrainingFramework)
-[![License](https://img.shields.io/cocoapods/l/LGEnglishTrainingFramework.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTrainingFramework)
-[![Platform](https://img.shields.io/cocoapods/p/LGEnglishTrainingFramework.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTrainingFramework)
+[![CI Status](https://img.shields.io/travis/GuiLQing/LGEnglishTraining.svg?style=flat)](https://travis-ci.org/GuiLQing/LGEnglishTraining)
+[![Version](https://img.shields.io/cocoapods/v/LGEnglishTraining.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTraining)
+[![License](https://img.shields.io/cocoapods/l/LGEnglishTraining.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTraining)
+[![Platform](https://img.shields.io/cocoapods/p/LGEnglishTraining.svg?style=flat)](https://cocoapods.org/pods/LGEnglishTraining)
 
 ## Example
 
@@ -17,7 +17,7 @@ LGEnglishTrainingFramework is available through [CocoaPods](https://cocoapods.or
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'LGEnglishTrainingFramework'
+pod 'LGEnglishTraining'
 ```
 
 ## Author
