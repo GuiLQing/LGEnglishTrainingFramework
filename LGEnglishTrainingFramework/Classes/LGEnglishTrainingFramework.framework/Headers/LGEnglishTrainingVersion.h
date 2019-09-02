@@ -9,5 +9,8 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/**
+版本：1.0.0.1    2019-8-15
+ */
 
 #endif /* LGEnglishTrainingVersion_h */
