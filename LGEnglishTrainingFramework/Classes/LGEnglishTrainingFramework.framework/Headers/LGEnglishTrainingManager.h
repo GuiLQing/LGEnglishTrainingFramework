@@ -25,13 +25,11 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 @property (nonatomic, copy) NSString *userID;
 /** 用户名 */
 @property (nonatomic, copy) NSString *userName;
-/** 服务器接口地址:http://ip:port */
+/** 英语训练基础服务器地址 */
 @property (nonatomic, copy) NSString *severUrl;
 /** 年级ID */
 @property (nonatomic, copy) NSString *classID;
-
-@property (nonatomic, copy) NSString *serverVersionCode;
-
+/** 自学基础服务器地址 */
 @property (nonatomic, copy) NSString *freeStudyBaseUrl;
 
 @property (nonatomic, copy) NSString *studyLevel;
