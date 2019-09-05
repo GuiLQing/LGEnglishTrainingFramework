@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/LGEnglishTrainingVersion.h</key>
 		<data>
-		u57vvD+gjiGX9tz/PzZhajQPLrs=
+		+ZA0cGRaSeSLuFeybUoRfrAfVQA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -245,11 +245,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u57vvD+gjiGX9tz/PzZhajQPLrs=
+			+ZA0cGRaSeSLuFeybUoRfrAfVQA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j9eIuorkWdaIV2oYus4GhmsFb+p5fjJt9kkmeQNIdgc=
+			sFb7CA+Eq4lm6VhuMFPgx1Xxk7IpxGBc3ZuzApMrIV8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
