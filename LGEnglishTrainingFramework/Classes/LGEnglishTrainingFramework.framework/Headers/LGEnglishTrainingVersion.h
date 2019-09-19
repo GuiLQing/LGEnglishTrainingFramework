@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.7    2019-9-19 */
+/**
+ 1、优化课外计划对接英语训练时训练后重新训练没有恢复上次训练的语速。
+ */
+
 /** 版本：1.0.0.6    2019-9-12 */
 /**
  1、优化英语训练听力预览音频卡顿后播放无声音问题

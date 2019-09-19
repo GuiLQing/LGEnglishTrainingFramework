@@ -3,11 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'LGEnglishTrainingFramework_Example' do
-  pod 'LGEnglishTrainingFramework', :path => '../'
+  pod 'LGEnglishTraining', :path => '../'
 
-  target 'LGEnglishTrainingFramework_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  
 end
