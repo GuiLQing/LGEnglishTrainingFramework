@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/LGEnglishTrainingManager.h</key>
 		<data>
-		tNGeWHNHdApzAQr2Qoc4WCLHnDY=
+		BGr/fvyL/u5rinyt3JUg010QuGs=
 		</data>
 		<key>Headers/LGEnglishTrainingVersion.h</key>
 		<data>
-		WMRBgWsdTfsT5PcRLwSnGWWKDPU=
+		sP9Mbw+KixLuoft4rWRlO0/87jw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -234,22 +234,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tNGeWHNHdApzAQr2Qoc4WCLHnDY=
+			BGr/fvyL/u5rinyt3JUg010QuGs=
 			</data>
 			<key>hash2</key>
 			<data>
-			7jmVv0+gFyQF0wFb7CMJCDWNSRISYijdwhnDf5EXkYA=
+			p60/U/53h2xvEEuv0DCSW6OC9AcP4SaVbmexzKs4zYQ=
 			</data>
 		</dict>
 		<key>Headers/LGEnglishTrainingVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WMRBgWsdTfsT5PcRLwSnGWWKDPU=
+			sP9Mbw+KixLuoft4rWRlO0/87jw=
 			</data>
 			<key>hash2</key>
 			<data>
-			6gvCYptlZ6zxz5h2qdoCbQor0uYHvQ5PS6eJ1UB7kL4=
+			FTSvPYIe4QCnpBWpvySDvSEFg4MufuCXnsS7k1qA4dk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

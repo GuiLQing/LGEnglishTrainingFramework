@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.8    2019-9-21 */
+/**
+ 1、新增模块将要退出回调
+ */
+
 /** 版本：1.0.0.7    2019-9-19 */
 /**
  1、优化课外计划对接英语训练时训练后重新训练没有恢复上次训练的语速。

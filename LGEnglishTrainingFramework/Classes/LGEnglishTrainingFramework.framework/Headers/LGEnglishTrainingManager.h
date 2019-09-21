@@ -43,6 +43,8 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 @property (nonatomic, copy) void (^jumpToLGKnowledgeBlock)(UIViewController *fromController, NSString *klgCode);
 @property (nonatomic, copy) void (^jumpToLGKnowledgeAlertBlock) (UIViewController *fromController,NSString *klgCode);
 
+@property (nonatomic, copy) void (^englishTrainingWillDismissBlock)(void);
+
 + (LGEnglishTrainingManager *)defaultManager;
 /** 跳转到英语训练主界面 */
 - (void)presentEnglishTrainingHomeControllerBy:(UIViewController *)controller;
