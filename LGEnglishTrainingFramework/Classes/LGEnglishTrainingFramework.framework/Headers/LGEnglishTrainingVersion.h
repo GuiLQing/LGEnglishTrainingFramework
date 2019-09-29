@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.10    2019-9-29 */
+/**
+ 1、英语训练首页简单适配iPad
+ */
+
 /** 版本：1.0.0.9    2019-9-27 */
 /**
  1、新增网络请求打印回调
