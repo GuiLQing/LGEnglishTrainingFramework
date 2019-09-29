@@ -54,6 +54,8 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 - (void)presentEnglishTrainingControllerBy:(UIViewController *)controller planId:(NSString *)planId trainingType:(NSInteger)trainingType resCode:(NSString *)resCode lastProgress:(NSNumber *)lastProgress;
 - (void (^)(UIViewController *controller, NSString *planId, NSInteger trainingType, NSString *resCode, NSNumber *lastProgress))presentEnglishTrainingController;
 
+@property (nonatomic, copy) void (^englishTrainingNetworkCallback)(NSDictionary *response);
+
 #ifdef DEBUG
 /** 测试使用 */
 - (void)pushToSpeakDubbingViewControllerByNavigationController:(UINavigationController *)navigationController;

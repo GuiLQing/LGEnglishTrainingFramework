@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.9    2019-9-27 */
+/**
+ 1、新增网络请求打印回调
+ */
+
 /** 版本：1.0.0.8    2019-9-21 */
 /**
  1、新增模块将要退出回调
