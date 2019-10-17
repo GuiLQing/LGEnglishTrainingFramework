@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.13    2019-10-16 */
+/**
+ 1、英语训练添加资料预览跳转接口
+ */
+
 /** 版本：1.0.0.12    2019-10-11 */
 /**
  1、完成英语训练iPad适配
