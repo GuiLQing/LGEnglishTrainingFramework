@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.14    2019-10-28 */
+/**
+ 1、英语训练无数据图更新
+ */
+
 /** 版本：1.0.0.13    2019-10-16 */
 /**
  1、英语训练添加资料预览跳转接口
