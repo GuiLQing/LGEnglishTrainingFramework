@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.15    2019-10-30 */
+/**
+ 1、英语训练音视频增加VIP权限控制
+ */
+
 /** 版本：1.0.0.14    2019-10-28 */
 /**
  1、英语训练无数据图更新

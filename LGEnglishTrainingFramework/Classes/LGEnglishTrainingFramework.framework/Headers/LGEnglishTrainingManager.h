@@ -51,6 +51,11 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 @property (nonatomic, copy) NSString *subjectID;    //学科ID
 @property (nonatomic, copy) NSString *token;        //用户登录令牌
 
+/** 付费VIP模式 */
+@property (nonatomic, assign) BOOL isVipLimitMode;
+/** 试听秒数 */
+@property (nonatomic, assign) NSInteger vipListeningTestTime;
+
 @property (nonatomic, assign, readonly) NSInteger levelId;
 
 #pragma mark - 英语训练回调
