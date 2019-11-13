@@ -9,6 +9,16 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.0.17    2019-11-11 */
+/**
+ 1、英语训练iPad适配优化
+ */
+
+/** 版本：1.0.0.16    2019-10-31 */
+/**
+ 1、英语训练音视频VIP权限控制调整
+ */
+
 /** 版本：1.0.0.15    2019-10-30 */
 /**
  1、英语训练音视频增加VIP权限控制
