@@ -60,7 +60,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7FB4BE4E296040BEBF3B2711 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9CEEEC54C3F853B7AA5122F1 /* LGEnglishTrainingFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LGEnglishTrainingFramework.podspec; path = ../LGEnglishTrainingFramework.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9CEEEC54C3F853B7AA5122F1 /* LGEnglishTraining.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LGEnglishTraining.podspec; path = ../LGEnglishTraining.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C4DFABA8DF10D0B760FCBCB1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		EC816D1E923E01583DA07C05 /* Pods-LGEnglishTrainingFramework_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LGEnglishTrainingFramework_Example.release.xcconfig"; path = "Target Support Files/Pods-LGEnglishTrainingFramework_Example/Pods-LGEnglishTrainingFramework_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -172,7 +172,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				9CEEEC54C3F853B7AA5122F1 /* LGEnglishTrainingFramework.podspec */,
+				9CEEEC54C3F853B7AA5122F1 /* LGEnglishTraining.podspec */,
 				C4DFABA8DF10D0B760FCBCB1 /* README.md */,
 				7FB4BE4E296040BEBF3B2711 /* LICENSE */,
 			);
@@ -331,7 +331,6 @@
 				"${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework",
 				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 				"${BUILT_PRODUCTS_DIR}/SGTools/SGTools.framework",
-				"${BUILT_PRODUCTS_DIR}/TFHpple/TFHpple.framework",
 				"${BUILT_PRODUCTS_DIR}/YJExtensions/YJExtensions.framework",
 				"${BUILT_PRODUCTS_DIR}/YJNetManager/YJNetManager.framework",
 				"${BUILT_PRODUCTS_DIR}/YJPresentAnimation/YJPresentAnimation.framework",
@@ -356,7 +355,6 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactiveObjC.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SGTools.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TFHpple.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YJExtensions.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YJNetManager.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YJPresentAnimation.framework",
