@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.5   2019-01-17 */
+/**
+ 1、英语训练增加笔记对接
+ */
+
 /** 版本：1.0.4   2019-01-10 */
 /**
  1、英语训练更新cocoapod
