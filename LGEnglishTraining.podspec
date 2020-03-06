@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'LGEnglishTraining'
-    s.version          = '1.0.5'
+    s.version          = '1.0.6'
     s.summary          = 'A short description of LGEnglishTrainingFramework.'
     
     s.description      = <<-DESC

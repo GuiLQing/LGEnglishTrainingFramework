@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.6   2019-03-06 */
+/**
+ 1、修复英语训练护眼模式下部分弹框突兀问题
+ */
+
 /** 版本：1.0.5   2019-01-17 */
 /**
  1、英语训练增加笔记对接
