@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.0.7   2019-03-16 */
+/**
+ 1、iOS13适配
+ */
+
 /** 版本：1.0.6   2019-03-06 */
 /**
  1、修复英语训练护眼模式下部分弹框突兀问题
