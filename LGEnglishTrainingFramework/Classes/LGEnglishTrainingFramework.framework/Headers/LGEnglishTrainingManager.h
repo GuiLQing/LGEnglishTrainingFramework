@@ -72,7 +72,7 @@ static NSString * const LGEnglishTrainingTokenUselessNotification = @"LGEnglishT
 
 @property (nonatomic, copy) void (^englishTrainingWillDismissBlock)(void);
 
-@property (nonatomic, copy) void (^ _Nullable jumpToNoteModule)(UINavigationController * _Nonnull navigationController, NSString * _Nullable resCode, NSString * _Nullable resName, void (^ _Nullable dismissBlock)(void));
+@property (nonatomic, copy) void (^ _Nullable jumpToNoteModule)(UINavigationController * _Nonnull navigationController, NSString * _Nullable resCode, NSString * _Nullable resName);
 
 #pragma mark - 对接英语训练跳转
 
