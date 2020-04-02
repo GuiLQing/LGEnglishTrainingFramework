@@ -44,7 +44,7 @@
   "resources": "LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle",
   "dependencies": {
     "AFNetworking": [
-
+      "3.2.1"
     ],
     "Masonry": [
 
