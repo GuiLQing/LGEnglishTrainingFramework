@@ -1,20 +1,22 @@
 
 Pod::Spec.new do |s|
     s.name             = 'LGEnglishTraining'
-    s.version          = '1.0.8'
+    s.version          = '1.0.9'
     s.summary          = 'A short description of LGEnglishTrainingFramework.'
     
     s.description      = <<-DESC
     TODO: Add long description of the pod here.
     DESC
     
-    #s.homepage         = 'https://github.com/GuiLQing/LGEnglishTrainingFramework'
-    s.homepage         = 'http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework'
+    s.homepage         = 'https://github.com/GuiLQing/LGEnglishTrainingFramework'
+    s.author           = { 'GuiLQing' => 'gui950823@126.com' }
+    s.source           = { :git => 'https://github.com/GuiLQing/LGEnglishTrainingFramework.git', :tag => s.version.to_s }
+    
+    #s.homepage         = 'http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework'
+    #s.author           = { 'pengshigui' => 'gui950823@126.com' }
+    #s.source           = { :git => 'http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework.git', :tag => s.version.to_s }
+    
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    #s.author           = { 'GuiLQing' => 'gui950823@126.com' }
-    s.author           = { 'pengshigui' => 'gui950823@126.com' }
-    #s.source           = { :git => 'https://github.com/GuiLQing/LGEnglishTrainingFramework.git', :tag => s.version.to_s }
-    s.source           = { :git => 'http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework.git', :tag => s.version.to_s }
     s.ios.deployment_target = '9.0'
     
     #系统依赖库
@@ -31,7 +33,6 @@ Pod::Spec.new do |s|
     
     s.resources = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
     
-    s.dependency 'AFNetworking','3.2.1'
     s.dependency 'Masonry'
     s.dependency 'JSONModel'
     s.dependency 'SDWebImage'
