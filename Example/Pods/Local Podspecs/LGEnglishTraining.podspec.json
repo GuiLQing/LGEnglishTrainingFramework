@@ -1,19 +1,19 @@
 {
   "name": "LGEnglishTraining",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "A short description of LGEnglishTrainingFramework.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework",
+  "homepage": "https://github.com/GuiLQing/LGEnglishTrainingFramework",
+  "authors": {
+    "GuiLQing": "gui950823@126.com"
+  },
+  "source": {
+    "git": "https://github.com/GuiLQing/LGEnglishTrainingFramework.git",
+    "tag": "1.0.9"
+  },
   "license": {
     "type": "MIT",
     "file": "LICENSE"
-  },
-  "authors": {
-    "pengshigui": "gui950823@126.com"
-  },
-  "source": {
-    "git": "http://192.168.3.18:3000/pengshigui/LGEnglishTrainingFramework.git",
-    "tag": "1.0.8"
   },
   "platforms": {
     "ios": "9.0"
