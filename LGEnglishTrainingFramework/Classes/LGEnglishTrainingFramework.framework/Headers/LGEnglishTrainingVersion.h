@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.1.0   2019-06-18 */
+/**
+ 1、英语训练问题优化
+ */
+
 /** 版本：1.0.9   2019-06-8 */
 /**
  1、英语训练问题优化

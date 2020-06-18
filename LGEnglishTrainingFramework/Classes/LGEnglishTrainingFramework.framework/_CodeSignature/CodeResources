@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/LGEnglishTrainingVersion.h</key>
 		<data>
-		ULBBR1Yanbvw/xOcyGSEFgjtNtU=
+		wkR0+zwQpU4itaOllNyRc9+VOlY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -36,13 +36,9 @@
 		<data>
 		UYO9y8k3PaSqOqPSpIASpvQ77Qw=
 		</data>
-		<key>YJMediaPlayer.bundle/placeholderImage@2x.png</key>
+		<key>YJMediaPlayer.bundle/placeholderImage.png</key>
 		<data>
-		1aqMTrm0BHe8YF84AwpfFLVEfxs=
-		</data>
-		<key>YJMediaPlayer.bundle/placeholderImage@3x.png</key>
-		<data>
-		UuiAbKEp9MwsQh9ZPof/Vy5jmyM=
+		F1nOgzECK7P72K2kcDdoymuu8nI=
 		</data>
 		<key>YJMediaPlayer.bundle/yj_back@2x.png</key>
 		<data>
@@ -269,11 +265,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ULBBR1Yanbvw/xOcyGSEFgjtNtU=
+			wkR0+zwQpU4itaOllNyRc9+VOlY=
 			</data>
 			<key>hash2</key>
 			<data>
-			WExQmy/iPOUeIYvsYYxi3P0vrsYdYlArm4xbZHX1Dgs=
+			bOcE8PEte0xcDEWZ5BCDs274hOzILpun0ESYAHxGjsg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -320,26 +316,15 @@
 			1PJuu7coXqNLEydLgT0O1RYV9gyyEW8NKdzEQKMaOuk=
 			</data>
 		</dict>
-		<key>YJMediaPlayer.bundle/placeholderImage@2x.png</key>
+		<key>YJMediaPlayer.bundle/placeholderImage.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1aqMTrm0BHe8YF84AwpfFLVEfxs=
+			F1nOgzECK7P72K2kcDdoymuu8nI=
 			</data>
 			<key>hash2</key>
 			<data>
-			tSEixvyitELdqIoKZvDYHPiqITkdU5hEZH6DrxDLgXc=
-			</data>
-		</dict>
-		<key>YJMediaPlayer.bundle/placeholderImage@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UuiAbKEp9MwsQh9ZPof/Vy5jmyM=
-			</data>
-			<key>hash2</key>
-			<data>
-			RicQGc3TrmZi9TAdNcZFfK9TYfbXahzsFjZbNqRelg8=
+			m6GE2Yi5XWMnP+j2OzlqqCswSViA3epcq3jztGlzKiU=
 			</data>
 		</dict>
 		<key>YJMediaPlayer.bundle/yj_back@2x.png</key>

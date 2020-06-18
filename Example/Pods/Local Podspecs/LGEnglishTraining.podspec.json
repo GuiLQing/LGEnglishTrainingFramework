@@ -43,6 +43,9 @@
   "vendored_frameworks": "LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.framework",
   "resources": "LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle",
   "dependencies": {
+    "IJKMediaFramework": [
+      "0.1.2"
+    ],
     "AFNetworking": [
       "3.2.1"
     ],
