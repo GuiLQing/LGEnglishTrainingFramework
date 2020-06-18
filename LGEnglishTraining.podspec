@@ -33,6 +33,8 @@ Pod::Spec.new do |s|
     
     s.resources = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
     
+    #s.dependency 'IJKMediaFramework','0.1.3'
+    #s.dependency 'AFNetworking','3.2.1'
     s.dependency 'Masonry'
     s.dependency 'JSONModel'
     s.dependency 'SDWebImage'
