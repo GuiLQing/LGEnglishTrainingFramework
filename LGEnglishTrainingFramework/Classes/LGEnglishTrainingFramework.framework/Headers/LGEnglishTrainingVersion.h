@@ -9,6 +9,11 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
+/** 版本：1.1.1   2019-06-18 */
+/**
+ 1、英语训练统一加载图及导航栏背景图
+ */
+
 /** 版本：1.1.0   2019-06-18 */
 /**
  1、英语训练问题优化

@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'LGEnglishTraining'
-    s.version          = '1.1.0'
+    s.version          = '1.1.1'
     s.summary          = 'A short description of LGEnglishTrainingFramework.'
     
     s.description      = <<-DESC
@@ -33,8 +33,8 @@ Pod::Spec.new do |s|
     
     s.resources = 'LGEnglishTrainingFramework/Classes/LGEnglishTrainingFramework.bundle'
     
-    #s.dependency 'IJKMediaFramework','0.1.3'
-    #s.dependency 'AFNetworking','3.2.1'
+    s.dependency 'IJKMediaFramework','0.1.3'
+    s.dependency 'AFNetworking','3.2.1'
     s.dependency 'Masonry'
     s.dependency 'JSONModel'
     s.dependency 'SDWebImage'
@@ -52,5 +52,6 @@ Pod::Spec.new do |s|
     s.dependency 'SGTools'
     s.dependency 'PSGChainedMode'
     s.dependency 'YJSearchController'
+    s.dependency 'LGBundle'
     
 end
