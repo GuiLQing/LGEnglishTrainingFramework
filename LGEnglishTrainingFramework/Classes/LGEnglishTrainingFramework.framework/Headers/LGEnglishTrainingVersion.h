@@ -9,7 +9,12 @@
 #ifndef LGEnglishTrainingVersion_h
 #define LGEnglishTrainingVersion_h
 
-/** 版本：1.1.1   2019-06-18 */
+/** 版本：1.1.2   2019-07-16 */
+/**
+ 1、英语训练统资源整合瘦身
+ */
+
+/** 版本：1.1.1   2019-07-12 */
 /**
  1、英语训练统一加载图及导航栏背景图
  */
